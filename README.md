@@ -1,4 +1,4 @@
-# Mysterious-Spices-
+# Mysterious Spices Responsive Web design
 
 Client requires a full website build to support her growth strategy. This website will allow her expose herr brand to organic audiences via search engines, leverage digital advertising to boost lead generation, and deploy content marketing to build brand awareness and authority.
 
