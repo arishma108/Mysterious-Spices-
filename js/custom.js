@@ -4,7 +4,7 @@ $(window).load(function(){
 });
 
 /* HTML document is loaded. DOM is ready. 
--------------------------------------------*/
+----------------------------------------*/
 $(function(){
 
   // ------- WOW ANIMATED ------ //
@@ -14,7 +14,7 @@ $(function(){
   });
   wow.init();
 
-  // ------- JQUERY PARALLAX ---- //
+  // ---- JQUERY PARALLAX ---- //
   function initParallax() {
     $('#home').parallax("100%", 0.1);
     $('#gallery').parallax("100%", 0.3);
